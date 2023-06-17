@@ -40,6 +40,10 @@
   filter: invert(1);
 }
 
+nav img {
+  cursor: pointer;
+}
+
 .gradient {
   height: fit-content;
   z-index: 3;
